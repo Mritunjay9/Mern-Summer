@@ -36,6 +36,5 @@ console.log(
 `Name: ${name}, Marks: ${marks},Attendance:${attendance}%,Grade:${grade}`);
 });
 
-
 console.log(`\nClass Average Marks: ${averageMarks.toFixed(2)}`);
 console.log(`Topper: ${topper.name} - ${topper.marks} marks`);
